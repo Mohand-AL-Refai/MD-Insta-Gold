@@ -1,5 +1,7 @@
 Version 1.98 Changelog:
 
->[Fixed] a crash when updating the follower list
->[Fixed] The problem of duplicate icons when installing the update
->[Fixed] The problem of the application disappearing in the list of applications in Huawei devices
+>[Base] 215.0.0.27.359
+>[Added] App Icons
+>[Fixed] Backup and Restore
+>[Fixed] Story and Reel Uploading
+>[Fixed] Random Crash
