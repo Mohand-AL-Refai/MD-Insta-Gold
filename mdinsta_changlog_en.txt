@@ -1,4 +1,4 @@
-Version 4.90 Changelog:
+Version 4.55 Changelog:
 
 >[Base Update] 240.2.0.18.107
 >[New ] New App Lock design
