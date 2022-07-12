@@ -1,4 +1,4 @@
-Version 3.95 Changelog:
+Version 5.00 Changelog:
 
 >[Base Update] 240.2.0.18.107
 >[New ] New App Lock design
