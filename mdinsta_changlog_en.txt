@@ -1,9 +1,8 @@
 Version 5.00 Changelog:
 
->[Base Update] 249.0.0.20.105
->[New ] New App Lock design
->[Exclusive] You can now show hidden chats by long pressing on the search box
->[Remove] Video Fast Forwarding By Instagram
->[Fixed] The problem of crashing when changing the language in Android 12
->[Fixed] Developer Options
->[Fixed] Many Random Crash
+[Base Update] 249.0.0.20.105
+[Remove] Font Style Due To Some Crashes
+[Improve] codes Improve
+[Fixed] problem is that the videos are not visible
+[Misc] Many More.
+[Fixed] Many Random Crash
