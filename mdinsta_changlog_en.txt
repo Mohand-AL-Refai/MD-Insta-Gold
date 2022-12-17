@@ -1,4 +1,4 @@
-Version 5.00 Changelog:
+Version 6.00 Changelog:
 
 [Base Update] 249.0.0.20.105
 [Remove] Font Style Due To Some Crashes
