@@ -1,0 +1,6 @@
+Version 7.0 Changelog:
+
+[Fix] The version is slow on some devices
+[Fix] Crash issue when opening the app
+[Fix] Crash when loading media
+[Fix] Several random crashes and crashes
