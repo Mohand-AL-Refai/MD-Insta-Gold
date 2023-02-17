@@ -4,6 +4,7 @@ Version 10.0 Changelog:
 >[Added] All the new Instagram features
 >[Added] Video submission feature
 >[Added] some new icons
+>[Fix] The problem of uploading images inside the conversation
 >[Fixed] The problem of collapsing in conversations
 >[Fixed] All crashing issues
 >[More] Fixes and improvements, discover it yourself
