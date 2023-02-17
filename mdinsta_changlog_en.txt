@@ -8,3 +8,4 @@ Version 10.0 Changelog:
 >[Fixed] The problem of collapsing in conversations
 >[Fixed] All crashing issues
 >[More] Fixes and improvements, discover it yourself
+(Developer Muhannad Al-Rifai)
