@@ -1,6 +1,9 @@
-Version 7.0 Changelog:
+Version 10.0 Changelog:
 
-[Fix] The version is slow on some devices
-[Fix] Crash issue when opening the app
-[Fix] Crash when loading media
-[Fix] Several random crashes and crashes
+>[Base update] 268.0.0.18.72
+>[Added] All the new Instagram features
+>[Added] Video submission feature
+>[Added] some new icons
+>[Fixed] The problem of collapsing in conversations
+>[Fixed] All crashing issues
+>[More] Fixes and improvements, discover it yourself
