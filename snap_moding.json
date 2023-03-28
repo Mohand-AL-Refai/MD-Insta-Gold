@@ -1,14 +1,14 @@
 { 
-   "v1":,
+   "v3":,
    "v2":0,
    "v3":"
-   \nSecret Screenshot Without Knowing Sender
-   \nSecret Screen Record Without Knowing Sender
-   \nHide Typing... indicator in Chat (Don't notify sender that you're typing)
-   \nHide Online in Chat
-   \nHide View Snap
-   \nHide View Story
-   \nHide Read Messages
-   \nVideo Length Limit Increased to Unlimited (Removes the Video Time Limit restrictions when sending videos from the gallery in Chat.)",
+   \nAdded Night Mode (90%)
+   \nAdded View snaps and story for unlimited time
+   \nAdded Download option for Snaps
+   \nAdded Download option for Stories
+   \nAdded Download option for Discover
+   \nAdded Download option for Spotlight
+   \nFixed Video Snaps download
+   \nFixed Annoying Gservices notification",
    "website":"https://www.mdmods.com"
 }
