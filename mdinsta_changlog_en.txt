@@ -1,21 +1,9 @@
-Version 9.0 Changelog:
+Version 10.0 Changelog:
 
-[Base update] 278.0.0.21.117
-[Exclusive] Anti-Screenshot tracker
-[Exclusive] Anti-Reply viewing images
-[Exclusive] Hide that you listen to the voice messages
-[Added] All the new Instagram features
-[Added] French language
-[Added] Spanish language
-[Added] Urdu language
-[Added] Persian language
-[Added] Indonesian language
-[Added] Indian language
-[Added] Italian language
-[Added] Russian language
-[Added] German 
-[Fixed] Problem of crashing when uploading images in the chat
-[Fixed] The problem of collapsing in conversations
-[Fixed] All crashing issues
-[More] Fixes  improvements, discover it yourself
-(Developer Muhannad Al-Rifai)
+> [Added] A shortcut button for InstaGold Settings on the main screen of Instagram
+> [Added] Feature of opening external links
+> [Re-add] Story sharing feature
+> [Re-Add] Copy the bio feature by long pressing on the text
+> [Fixed] Problem of the download videos button not appearing in chats
+> [Fixed] All crashing issues
+> [More] Fixes and improvements, discover it yourself
